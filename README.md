@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![striderkein's GitHub stats](https://github-readme-stats.vercel.app/api?username=striderkein)](https://github.com/striderkein/github-readme-stats)
 <!--
 **striderkein/striderkein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
