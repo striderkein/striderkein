@@ -2,6 +2,8 @@
 
 [![striderkein's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=striderkein&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/striderkein/github-readme-stats#gh-dark-mode-only)
 [![striderkein's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=striderkein&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/striderkein/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=striderkein)](https://github.com/striderkein/github-readme-stats)
 <!--
 **striderkein/striderkein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
